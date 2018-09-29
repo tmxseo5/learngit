@@ -7,3 +7,4 @@ fenzhifeaturel
 >>>>>>> featurel
 chongtujiejue
 fenzhiguanli
+bug fenzhi
